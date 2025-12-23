@@ -1,6 +1,7 @@
-# Streametrix - RTSP Stream Broadcaster
+# Streametrix
 
-A Python utility to stream video files over RTSP using MediaMTX and FFmpeg. This tool automatically handles MediaMTX server startup and streams video content via RTSP protocol.
+I have planned to create a frame extraction from stream (RTSP/RTMP) benchmarking tool. I think, it's a chance to use Python as `glue-script` as it was intended to become.<br>
+But for the first phase I built a utility to stream video files over RTSP using MediaMTX and FFmpeg. This tool automatically handles MediaMTX server startup and streams video content via RTSP protocol.
 
 ## Features
 
